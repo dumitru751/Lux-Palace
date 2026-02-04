@@ -750,8 +750,6 @@ legend {
         width: 100%;
         padding-left: 25px;
         padding-top: 60px;
-
-
     }
 
     form {
@@ -899,4 +897,32 @@ legend {
         padding-bottom: 9px;
     }
 
+}
+@media(max-width:400px) {
+   .img-fundal img{
+    height: 630px;
+   }
+   .img-fundal{
+    height: 635px;
+   }
+    .index-h1 {
+        position: absolute;
+        top: 50px;
+        left: 50px;
+        width: 80%;
+
+    }
+    .index-mesaj {
+        position: absolute;
+        top: 31%;
+        left: 4%;
+        width: 90%;
+
+    }
+    .index-mesaj p {
+        font-size: 17px;
+        width: 100%;
+        padding-left: 25px;
+        padding-top: 25px;
+    }
 }
