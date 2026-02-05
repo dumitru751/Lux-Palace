@@ -599,6 +599,8 @@ legend {
 
 }
 
+
+
 @media(max-width:800px) {
     #hamburger {
         display: block;
@@ -893,18 +895,22 @@ legend {
     .meniu {
         margin-bottom: 0;
     }
-    .span{
+
+    .span {
         padding-bottom: 9px;
     }
 
 }
+
 @media(max-width:400px) {
-   .img-fundal img{
-    height: 630px;
-   }
-   .img-fundal{
-    height: 635px;
-   }
+    .img-fundal img {
+        height: 630px;
+    }
+
+    .img-fundal {
+        height: 635px;
+    }
+
     .index-h1 {
         position: absolute;
         top: 50px;
@@ -912,6 +918,7 @@ legend {
         width: 80%;
 
     }
+
     .index-mesaj {
         position: absolute;
         top: 31%;
@@ -919,10 +926,35 @@ legend {
         width: 90%;
 
     }
+
     .index-mesaj p {
         font-size: 17px;
         width: 100%;
         padding-left: 25px;
         padding-top: 25px;
+    }
+}
+
+@media(max-width:500px) {
+    .img-fundal img {
+        height: 629px;
+    }
+
+    .img-fundal {
+        height: 615px;
+    }
+    .contacte-iframe iframe{
+        width: 80%;
+        margin-left: 45px;
+    }
+    .background{
+        margin-bottom: -1px;
+    }
+    .img-aperitive1 p{
+        padding-left: 20px;
+    }
+    .img-aperitive1 img{
+        width: 70%;
+        margin-left: 15%;
     }
 }
