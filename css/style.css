@@ -779,14 +779,9 @@ legend {
 
     .img-fundal img {
         height: 573px;
-        width: 100%;
     }
-
-
-
     .img-fundal {
         height: 573px;
-        width: 100%;
     }
 
     .semn {
@@ -1055,6 +1050,17 @@ legend {
         width: 90%;
         margin-left: 5%;
 
+    }
+}
+
+
+@media(max-width:420px) {
+    .img-fundal img {
+        height: 730px;
+    }
+
+    .img-fundal {
+        height: 730px;
     }
 }
 
