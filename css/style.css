@@ -1124,6 +1124,14 @@ legend {
 }
 
 @media(max-width:391px) {
+    .img-fundal img {
+        height: 689px;
+    }
+
+    .img-fundal {
+        height: 689px;
+    }
+
     .aperitive {
         padding: 5px;
     }
@@ -1140,19 +1148,25 @@ legend {
     .meniuri p {
         padding: 10px;
     }
+     .index-mesaj p {
+        font-size: 18px;
+        margin-top: 50px;
+    }
+}
+
+@media(max-width:376px){
+    .img-fundal img {
+        height: 712px;
+    }
+
+    .img-fundal {
+        height: 712px;
+    }
 }
 
 
 
 @media(max-width:350px) {
-    /* .img-fundal img {
-        height: 630px;
-    }
-
-    .img-fundal {
-        height: 620px;
-    } */
-
     .fundal-h1 {
         font-size: 20px;
         margin-bottom: 0;
