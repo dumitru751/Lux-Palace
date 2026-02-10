@@ -1082,7 +1082,7 @@ legend {
         height: 710px;
     }
 }
-@media(max-width:415px) {
+@media(max-width:417px) {
      .img-fundal img {
         height: 740px;
     }
