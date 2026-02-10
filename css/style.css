@@ -1084,11 +1084,17 @@ legend {
 }
 @media(max-width:415px) {
      .img-fundal img {
-        height: 825px;
+        height: 740px;
     }
 
     .img-fundal {
-        height: 825px;
+        height: 740px;
+    }
+    .fundal-h1{
+        font-size: 24px;
+        margin-bottom: 0;
+        padding-bottom: 10px;
+        margin-top: 0;
     }
 }
 @media(max-width:413px) {
@@ -1158,6 +1164,15 @@ legend {
     .meniuri p {
         padding: 10px;
     }
+}
+@media(max-width:394px){
+    .img-fundal img {
+        height:696px;
+    }
+
+    .img-fundal {
+        height: 696px;}
+    
 }
 
 @media(max-width:391px) {
