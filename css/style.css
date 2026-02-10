@@ -1165,13 +1165,13 @@ legend {
         padding: 10px;
     }
 }
-@media(max-width:394px){
+@media(max-width:395px){
     .img-fundal img {
-        height:696px;
+        height:694px;
     }
 
     .img-fundal {
-        height: 696px;}
+        height: 694px;}
     
 }
 
