@@ -1184,6 +1184,15 @@ legend {
     
 }
 
+@media(max-width:394px){
+    .img-fundal img {
+        height:686px;
+    }
+
+    .img-fundal {
+        height: 686px;}
+}
+
 @media(max-width:392px) {
     .img-fundal img {
         height: 692px;
