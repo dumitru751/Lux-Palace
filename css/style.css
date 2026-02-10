@@ -1084,11 +1084,11 @@ legend {
 }
 @media(max-width:417px) {
      .img-fundal img {
-        height: 740px;
+        height: 660px;
     }
 
     .img-fundal {
-        height: 740px;
+        height: 660px;
     }
     .fundal-h1{
         font-size: 24px;
