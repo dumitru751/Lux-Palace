@@ -1175,13 +1175,13 @@ legend {
     
 }
 
-@media(max-width:391px) {
+@media(max-width:392px) {
     .img-fundal img {
-        height: 772px;
+        height: 692px;
     }
 
     .img-fundal {
-        height: 772px;
+        height: 692px;
     }
 
     .aperitive {
