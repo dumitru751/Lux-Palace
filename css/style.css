@@ -1099,11 +1099,11 @@ legend {
 }
 @media(max-width:413px) {
      .img-fundal img {
-        height: 843px;
+        height: 750px;
     }
 
     .img-fundal {
-        height: 843px;
+        height: 750px;
     }
 }
 
@@ -1220,6 +1220,17 @@ legend {
 
     }
 }
+
+@media(max-width:378px){
+     .img-fundal img {
+        height: 727px;
+    }
+
+    .img-fundal {
+        height: 727px;
+    }
+}
+
 @media(max-width:376px){
      .img-fundal img {
         height: 597px;
