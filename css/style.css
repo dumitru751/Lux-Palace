@@ -515,8 +515,24 @@ form {
     height: 600px;
     margin-bottom: 30px;
 }
+.img-aperitive11 {
+    border-radius: 15px;
+    vertical-align: top;
+    margin-left: 2px;
+    margin-right: 15px;
+    display: inline-block;
+    width: 31%;
+    background-color: whitesmoke;
+    height: 600px;
+    margin-bottom: 30px;
+}
 
 .img-aperitive1 img {
+    width: 100%;
+    height: 350px;
+    border-radius: 15px;
+}
+.img-aperitive11 img {
     width: 100%;
     height: 350px;
     border-radius: 15px;
@@ -884,6 +900,16 @@ legend {
         display: block;
         width: 100%;
     }
+    .img-aperitive11 {
+        display: block;
+        width: 100%;
+        margin-bottom: 0;
+    }
+    .img-aperitive11 img {
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 15px;
+    }
 
     .img-aperitive1 img {
         width: 80%;
@@ -1113,6 +1139,15 @@ legend {
 
     .img-fundal {
         height: 745px;
+    }
+}
+@media(max-width:402px) {
+    .img-fundal img {
+        height: 739px;
+    }
+
+    .img-fundal {
+        height:739px;
     }
 }
 
